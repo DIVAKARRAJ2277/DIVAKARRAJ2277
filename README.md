@@ -33,7 +33,7 @@ I am an Electronics and Communication Engineering graduate passionate about Data
 
 ### 🗄️ Database
 - PostgreSQL
-- MySQL
+
 
 ### 🐍 Python Libraries
 - Pandas
