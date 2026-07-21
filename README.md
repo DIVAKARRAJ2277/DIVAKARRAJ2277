@@ -14,8 +14,8 @@ I am an Electronics and Communication Engineering graduate passionate about Data
 - 💡 Passionate about Data Analytics and Business Intelligence
 - 🎯 Looking for Data Analyst opportunities
 - 📍 India
+- ---
 
----
 
 # 🛠️ Technical Skills
 
@@ -47,146 +47,112 @@ I am an Electronics and Communication Engineering graduate passionate about Data
 - Power BI
 
 ---
+📄 Resume
+
+### 🔗 Resume Link
+
+📂 **Google Drive:**  
+https://drive.google.com/drive/folders/1_9cJnQxmzSaAOxRIiwqFCwAO_baWRgIC?usp=drive_link
+
+
+---
+# 📜 Certifications
+
+## 🎓 Business And Marketing Analytics With AI Tools Program
+
+**Issued By:** GUVI Geek Network & HCL  
+**Recognition:** IITM Incubated Company | IIM Ahmedabad | Google for Education Partner
+
+**📅 Duration:** 4 Months  
+**📆 Issued:** June 20, 2026
+---
 
 # 🚀 Featured Projects
 
 ## ✈️ IndiGo Airlines Crisis Analytics – Business Intelligence & Operational Turnaround
 
-### Tools
+### 🛠️ Tools
 Python • Pandas • Power BI • Excel
 
-### Description
-Analyzed airline operational data to identify flight delays, cancellations, FDTL compliance, pilot shortages, and revenue impact. Cleaned multiple datasets using Python and developed interactive Power BI dashboards for business decision-making.
+### 📖 Description
+Analyzed airline operational data to identify flight delays, cancellations, pilot shortages, FDTL compliance issues, and revenue impact. Cleaned and transformed multiple datasets using Python and developed interactive Power BI dashboards for business decision-making.
 
-### Key Highlights
-- Data Cleaning using Python
-- KPI Development
-- Flight Delay Analysis
-- Revenue Analysis
-- Crew Performance Analysis
-- Interactive Dashboard
+### 🔗 Project Files
+📂 **Google Drive:**  
+[View Project](https://drive.google.com/drive/folders/1T4HjRtOlNPNMBvTBgz9Jm2Gl58NizR_L?usp=drive_link)
 
 ---
 
 ## 📊 Retail Revenue Analysis for Leadership Decision Making
 
-### Domain
-Retail Sales Analytics
-
-### Tools
+### 🛠️ Tools
 Microsoft Excel
 
-### Project Description
+### 📖 Description
+Developed a complete retail sales analytics solution by cleaning raw transactional data, calculating KPIs, performing business analysis, and building an interactive Excel dashboard for leadership decision-making.
 
-The B&J Biscuit Company faced challenges in understanding sales performance because of inconsistent and disconnected datasets. This project focused on cleaning data, generating KPIs, analyzing sales performance, and building an interactive Excel dashboard for leadership decision-making.
-
-### Skills Used
-
-- Data Cleaning & Preprocessing
-- Data Transformation
-- Advanced Excel Functions
-- XLOOKUP
-- VLOOKUP
-- INDEX-MATCH
-- Pivot Tables
-- Dashboard Development
-- KPI Reporting
-- Business Analytics
-
-### Business Analysis
-
-- Revenue Analysis
-- Cost Analysis
-- Profit Analysis
-- Profit Margin
-- Product Performance
-- Buyer Demographics
-- Sales Representative Performance
-- Location-wise Analysis
-- Payment Method Analysis
+### 🔗 Project Files
+📂 **Google Drive:**  
+[View Project](https://drive.google.com/drive/folders/1pW8hlaqNHYbSJRNR5TAUkOZ3XRU0ze89?usp=sharing)
 
 ---
 
-## 📈 Amazon Sales Dashboard
+## 🍽️ Zomato Sales Analysis Dashboard
 
-### Tools
-Power BI • Excel
-
-### Description
-
-Created an interactive Power BI dashboard to analyze sales performance, revenue trends, customer behavior, and product performance.
-
-### Dashboard Features
-
-- Revenue KPIs
-- Product Performance
-- Customer Analysis
-- Regional Sales
-- Sales Trends
-
----
-
-## 🍽️ Zomato Sales Dashboard
-
-### Tools
+### 🛠️ Tools
 Power BI • SQL
 
-### Description
+### 📖 Description
+Built an interactive dashboard to analyze restaurant performance, customer trends, revenue, and business KPIs.
 
-Developed a dashboard to analyze restaurant performance, customer trends, revenue, and business KPIs.
+### 🔗 Project Files
+📂 **Google Drive:**  
+[View Project](https://drive.google.com/drive/folders/13zsmu_pE1sMMExylZsn5-pNXmgMEer0P?usp=drive_link)
 
 ---
 
-## 🛒 SQL Marketplace Analysis
+## 📢 Data-Driven Insights for Digital Marketing Campaign
 
-### Tools
+### 🛠️ Tools
+Excel • Power BI
+
+### 📖 Description
+Analyzed digital marketing campaign performance to measure campaign effectiveness, customer engagement, conversion rates, and ROI using interactive dashboards.
+
+### 🔗 Project Files
+📂 **Google Drive:**  
+[View Project](https://drive.google.com/drive/folders/1FmuEG4n84yCbae5KACHr_2fO-IR965Nq?usp=drive_link)
+
+---
+
+## 📱 Instagram Analytics Project
+
+### 🛠️ Tools
+Excel • Tableau
+
+### 📖 Description
+Analyzed Instagram account performance by evaluating engagement, reach, impressions, follower growth, and content performance to generate actionable insights.
+
+### 🔗 Project Files
+📂 **Google Drive:**  
+[View Project](https://drive.google.com/drive/folders/1-smhdpwv7GnW1PlfB5ujeUqIu-FXk44k?usp=drive_link)
+
+---
+
+## 🛒 Marketplace SQL Analysis
+
+### 🛠️ Tools
 PostgreSQL • SQL
 
-### Description
+### 📖 Description
+Designed relational database tables and performed SQL queries to analyze sales performance, customer behavior, and business insights.
 
-Designed relational database tables and used SQL queries to analyze customer purchasing behavior, sales trends, and revenue opportunities.
+### 🔗 Project Files
+📂 **Google Drive:**  
+[View Project](https://drive.google.com/drive/folders/1bf1gwliL4lIK2fzh4O1WXhGLgo6fM7hE?usp=drive_link)
 
-### SQL Skills
 
-- SELECT
-- WHERE
-- GROUP BY
-- ORDER BY
-- HAVING
-- INNER JOIN
-- LEFT JOIN
-- Aggregate Functions
-- CASE Statements
-- Subqueries
 
----
-
-# 📜 Certifications
-
-## 🎓 GUVI – Data Analytics Program
-
-Successfully completed the Data Analytics Program from **GUVI Geek Networks**, gaining hands-on experience in:
-
-### Skills Covered
-
-- Microsoft Excel
-- SQL
-- Python
-- Power BI
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
-- Business Analytics
-- Exploratory Data Analysis (EDA)
-- KPI Reporting
-
-### Learning Outcomes
-
-- Built dashboards using Excel and Power BI.
-- Cleaned and transformed business datasets.
-- Performed SQL analysis on real-world data.
-- Used Python for data cleaning and EDA.
-- Developed business reports and KPIs.
 
 ---
 
